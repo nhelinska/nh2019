@@ -1,0 +1,9 @@
+D:\Users\n.helinska\Source\Repos\nhelinska\nh2019\projektnagit\projektnagit\bin\Debug\projektnagit.dacpac
+D:\Users\n.helinska\Source\Repos\nhelinska\nh2019\projektnagit\projektnagit\bin\Debug\projektnagit.dll
+D:\Users\n.helinska\Source\Repos\nhelinska\nh2019\projektnagit\projektnagit\bin\Debug\projektnagit.pdb
+D:\Users\n.helinska\Source\Repos\nhelinska\nh2019\projektnagit\projektnagit\obj\Debug\Model.xml
+D:\Users\n.helinska\Source\Repos\nhelinska\nh2019\projektnagit\projektnagit\obj\Debug\refactor.xml
+D:\Users\n.helinska\Source\Repos\nhelinska\nh2019\projektnagit\projektnagit\obj\Debug\postdeploy.sql
+D:\Users\n.helinska\Source\Repos\nhelinska\nh2019\projektnagit\projektnagit\obj\Debug\predeploy.sql
+D:\Users\n.helinska\Source\Repos\nhelinska\nh2019\projektnagit\projektnagit\obj\Debug\projektnagit.dll
+D:\Users\n.helinska\Source\Repos\nhelinska\nh2019\projektnagit\projektnagit\obj\Debug\projektnagit.pdb

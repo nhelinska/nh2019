@@ -1,0 +1,85 @@
+29.07.2019 18:41:52	This log contains information about the import schema operation into project 'projektnagit' on computer 'PK5-10' by user 'n.helinska'.
+29.07.2019 18:41:52	Import of database schema has started.
+29.07.2019 18:41:58	Gathering database credentials
+29.07.2019 18:41:58	Gathering database options
+29.07.2019 18:41:58	Gathering generic database scoped configuration option
+29.07.2019 18:41:58	Gathering users
+29.07.2019 18:41:58	Gathering roles
+29.07.2019 18:41:58	Gathering application roles
+29.07.2019 18:41:58	Gathering role memberships
+29.07.2019 18:41:58	Gathering filegroups
+29.07.2019 18:41:58	Gathering full-text catalogs
+29.07.2019 18:41:58	Gathering assemblies
+29.07.2019 18:41:58	Gathering certificates
+29.07.2019 18:41:58	Gathering asymmetric keys
+29.07.2019 18:41:58	Gathering symmetric keys
+29.07.2019 18:41:58	Gathering encrypted symmetric keys
+29.07.2019 18:41:58	Gathering schemas
+29.07.2019 18:41:58	Gathering XML schema collections
+29.07.2019 18:41:58	Gathering user-defined data types
+29.07.2019 18:41:58	Gathering user-defined types
+29.07.2019 18:41:58	Gathering table types
+29.07.2019 18:41:58	Gathering unique keys for table types
+29.07.2019 18:41:58	Gathering primary keys for table types
+29.07.2019 18:41:58	Gathering indexes for table types
+29.07.2019 18:41:58	Gathering check constraints for table types
+29.07.2019 18:41:58	Gathering default constraints for table types
+29.07.2019 18:41:58	Gathering partition functions
+29.07.2019 18:41:58	Gathering partition schemes
+29.07.2019 18:41:58	Gathering functions
+29.07.2019 18:41:58	Gathering encrypted functions
+29.07.2019 18:41:58	Gathering aggregates
+29.07.2019 18:41:58	Gathering procedures
+29.07.2019 18:41:58	Gathering encrypted procedures
+29.07.2019 18:41:58	Gathering tables
+29.07.2019 18:41:58	Gathering primary keys
+29.07.2019 18:41:58	Gathering unique constraints
+29.07.2019 18:41:58	Gathering foreign keys
+29.07.2019 18:41:58	Gathering default constraints
+29.07.2019 18:41:58	Gathering check constraints
+29.07.2019 18:41:58	Gathering views
+29.07.2019 18:41:58	Gathering encrypted views
+29.07.2019 18:41:58	Gathering indexes
+29.07.2019 18:41:58	Gathering statistics
+29.07.2019 18:41:58	Gathering full-text index stoplists
+29.07.2019 18:41:58	Gathering search property lists
+29.07.2019 18:41:58	Gathering search properties
+29.07.2019 18:41:58	Gathering full-text indexes
+29.07.2019 18:41:58	Gathering column store indexes
+29.07.2019 18:41:58	Gathering spatial indexes
+29.07.2019 18:41:58	Gathering XML indexes
+29.07.2019 18:41:58	Gathering Selective XML indexes
+29.07.2019 18:41:58	Gathering encrypted triggers
+29.07.2019 18:41:58	Gathering triggers
+29.07.2019 18:41:58	Gathering encrypted and clr ddl triggers
+29.07.2019 18:41:58	Gathering ddl triggers
+29.07.2019 18:41:58	Gathering synonyms
+29.07.2019 18:41:58	Gathering defaults
+29.07.2019 18:41:58	Gathering data constraint uddt bindings
+29.07.2019 18:41:58	Gathering rules
+29.07.2019 18:41:58	Gathering data constraint uddt bindings
+29.07.2019 18:41:58	Gathering message types
+29.07.2019 18:41:58	Gathering queues
+29.07.2019 18:41:58	Gathering contracts
+29.07.2019 18:41:58	Gathering services
+29.07.2019 18:41:58	Gathering event notifications
+29.07.2019 18:41:59	Gathering remote service bindings
+29.07.2019 18:41:59	Gathering broker priorities
+29.07.2019 18:41:59	Gathering signatures
+29.07.2019 18:41:59	Gathering data compression options
+29.07.2019 18:41:59	Gathering sequence types
+29.07.2019 18:41:59	Gathering security policies
+29.07.2019 18:41:59	Gather column encryption keys
+29.07.2019 18:41:59	Gathering column master keys
+29.07.2019 18:41:59	Gathering external data sources
+29.07.2019 18:41:59	Gathering external file formats
+29.07.2019 18:41:59	Gathering external tables
+29.07.2019 18:41:59	Gathering extended properties
+29.07.2019 18:41:59	Gathering credentials
+29.07.2019 18:41:59	Gathering logins
+29.07.2019 18:41:59	Gathering server audits
+29.07.2019 18:41:59	Scanning project for duplicate elements
+29.07.2019 18:41:59	Finished duplicate element processing
+29.07.2019 18:41:59	Finished importing database.
+29.07.2019 18:41:59	A summary of the import was saved to the following location: D:\Users\n.helinska\Source\Repos\nhelinska\nh2019\projektnagit\projektnagit\Import Schema Logs\projektnagit_20190729044152.log
+29.07.2019 18:41:59	Click Finish to continue...
